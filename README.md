@@ -1,1 +1,1 @@
-# loba-ijcai25.github.io
+# loba-demo-ijcai2025.github.io
